@@ -2,7 +2,16 @@
 
 A template for starting Python 3 projects.
 
-TODO: update this readme with project specific info.
+## Use
+
+When you use this repo as template, you have to chage:
+
+- This README
+- The LICENSE
+- Package name and info
+- Add dependencies
+- Personalize editor infos (e.g. python path in .vim/)
+
 
 ## Install
 This package can be installed as usual:
